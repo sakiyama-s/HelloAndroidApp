@@ -9,14 +9,9 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     tools:context=".MainActivity">
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hellow Android!"/>
+        android:text="Hello Android!"/>
 
 </LinearLayout>
